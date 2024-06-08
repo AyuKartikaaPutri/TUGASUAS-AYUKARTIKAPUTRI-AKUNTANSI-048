@@ -1,7 +1,5 @@
 # TUGASUAS-AYUKARTIKAPUTRI-AKUNTANSI-048
 
-[python]: Berikut adalah versi README yang ditambahkan penjelasan mengenai data dan hasil visualisasi yang diunggah:
-
 ---
 
 # Analisis Data Penjualan Cake dan Pastry
