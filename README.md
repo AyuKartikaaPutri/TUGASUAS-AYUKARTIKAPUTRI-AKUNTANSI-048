@@ -29,6 +29,8 @@ Terdapat tiga dataset yang digunakan dalam analisis ini, disimpan dalam file CSV
 
 ## Analisis Data
 
+![alt text](https://github.com/AyuKartikaaPutri/TUGASUAS-AYUKARTIKAPUTRI-AKUNTANSI-048/blob/main/visualisasi_korelasi.png?raw=true)
+
 ### 1. Regresi Linier
 
 Analisis regresi linier dilakukan untuk melihat hubungan antara penjualan bulanan cake dan pastry. Hasil regresi linier menunjukkan:
@@ -65,6 +67,8 @@ Interpretasi:
 - Korelasi harga dan jumlah penjualan pastry adalah 0.863, menunjukkan korelasi positif yang sangat kuat.
 
 ## Visualisasi
+
+![alt text](https://github.com/AyuKartikaaPutri/TUGASUAS-AYUKARTIKAPUTRI-AKUNTANSI-048/blob/main/visualisasi.png?raw=true)
 
 Visualisasi data dilakukan menggunakan berbagai jenis grafik untuk memberikan wawasan yang lebih mendalam. Hasil visualisasi disimpan dalam file PNG:
 
