@@ -1,0 +1,6 @@
+# Membuat DataFrame penjualan cake
+data_cake = pd.DataFrame({
+    'jenis': ['Chocolate', 'Vanilla', 'Red Velvet', 'Cheesecake', 'Black Forest'],
+    'jumlah': [150, 200, 120, 180, 140],
+    'harga': [20, 18, 25, 22, 24]
+})

@@ -1,0 +1,6 @@
+# Membuat DataFrame penjualan per bulan
+data_bulanan = pd.DataFrame({
+    'bulan': ['January', 'February', 'March', 'April', 'May'],
+    'penjualan_cake': [500, 600, 550, 620, 590],
+    'penjualan_pastry': [480, 560, 520, 580, 610]
+})
