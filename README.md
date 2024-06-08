@@ -118,11 +118,4 @@ Untuk menjalankan analisis ini, ikuti langkah-langkah berikut:
 
 3. Interpretasi hasil visualisasi dan analisis data yang dihasilkan.
 
-## Pengembangan Lebih Lanjut
-
-Proyek ini dapat dikembangkan lebih lanjut dengan:
-- Menambahkan lebih banyak variabel untuk analisis yang lebih komprehensif.
-- Menggunakan teknik machine learning untuk prediksi penjualan di masa depan.
-- Mengintegrasikan data penjualan dari berbagai sumber untuk mendapatkan wawasan yang lebih luas.
-
 ---
